@@ -1,2 +1,1 @@
-# James-Leong
-Project
+# Capstone Project
