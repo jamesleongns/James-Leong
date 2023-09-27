@@ -15,10 +15,8 @@ There are 2 datasets source file used here namely Customer and Purchase.  Custom
 Purchase dataset, added columns to calculate:
 -discount_amount: 		      amount to be discounted from order price
 -tax_amount: 			          tax amount to be added to price for each order.
-Sales: 				              sales price after minus discount_amount, add tax_amount & shipping_cost.
-Duration_OrderToShipDate: 	number of days taken from order date to ship out .
-ShipCost/Price: 		        percentage of shipping cost divided by price for each customer order.
-Price/Qty:			            average price per unit quantity in each customer order.
-ShipCost/Qty:			          average shipping cost per unit quantity in each customer order.
-
-
+-Sales: 				            sales price after minus discount_amount, add tax_amount & shipping_cost.
+-Duration_OrderToShipDate: 	number of days taken from order date to ship out .
+-ShipCost/Price: 		        percentage of shipping cost divided by price for each customer order.
+-Price/Qty:			            average price per unit quantity in each customer order.
+-ShipCost/Qty:			        average shipping cost per unit quantity in each customer order.
