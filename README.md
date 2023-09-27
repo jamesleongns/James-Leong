@@ -11,3 +11,4 @@ As a Data Analyst to generate a report with important insights which can help th
 **Description of Dataset:**  
 There are 2 datasets source file used here namely Customer and Purchase.  Customer dataset(1000 rows) contain critical values on gender, income, country and age while Purchase(50,000 rows) dataset contain product name, price, discount, tax, order date, quantity and shipping cost. price from Purchase dataset is assumed to be defined as the total price of an order_id inclusive of its total quantity but exclude discount, tax and shipping cost.
 
+![](https://imgur.com/a/7KqoAvB)
