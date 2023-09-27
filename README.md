@@ -12,11 +12,25 @@ As a Data Analyst to generate a report with important insights which can help th
 There are 2 datasets source file used here namely Customer and Purchase.  Customer dataset(1000 rows) contain critical values on gender, income, country and age while Purchase(50,000 rows) dataset contain product name, price, discount, tax, order date, quantity and shipping cost. price from Purchase dataset is assumed to be defined as the total price of an order_id inclusive of its total quantity but exclude discount, tax and shipping cost.
 
 **Data Transformation:**  
-Purchase dataset, added columns to calculate:
--discount_amount: 		      amount to be discounted from order price
--tax_amount: 			          tax amount to be added to price for each order.
--Sales: 				            sales price after minus discount_amount, add tax_amount & shipping_cost.
--Duration_OrderToShipDate: 	number of days taken from order date to ship out .
--ShipCost/Price: 		        percentage of shipping cost divided by price for each customer order.
--Price/Qty:			            average price per unit quantity in each customer order.
--ShipCost/Qty:			        average shipping cost per unit quantity in each customer order.
+Purchase dataset, added columns to calculate:  
+discount_amount:            amount to be discounted from order price  
+tax_amount: 			          tax amount to be added to price for each order.  
+Sales: 				              sales price after minus discount_amount, add tax_amount & shipping_cost.  
+Duration_OrderToShipDate: 	number of days taken from order date to ship out.  
+ShipCost/Price: 		        percentage of shipping cost divided by price for each customer order.  
+Price/Qty:			            average price per unit quantity in each customer order.  
+ShipCost/Qty:			          average shipping cost per unit quantity in each customer order.  
+
+ProductCat dataset created to assign product_name in Purchase dataset to product category:   
+&#x2022; Home Living  
+&#x2022; Electronics
+&#x2022; Apparel Fashion  
+
+Customer dataset, added AgeSegment column  e-commerce demographic segments:  
+(Below ranked in descending order of Sales)  
+  1.Mid-Aged Prof_45-54yrs  	
+2.Seniors_55-65yrs  
+3.Adult Prof_35-44yrs  
+4.Young Prof_25-34yrs  
+5.College Stu_18-24yrs  
+
