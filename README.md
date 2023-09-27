@@ -27,7 +27,7 @@ ProductCat dataset separately created to categorize product_name within a broade
 * Electronics  
 * Apparel Fashion  
 
-Customer dataset, added AgeSegment column:
+Customer dataset, added AgeSegment column:  
 (numerically ranked in descending order of Sales contribution)
 * 1.Mid-Aged Prof_45-54yrs  
 * 2.Seniors_55-65yrs  
@@ -35,13 +35,12 @@ Customer dataset, added AgeSegment column:
 * 4.Young Prof_25-34yrs  
 * 5.College Stu_18-24yrs
 
-Customer dataset, hilight country column and replace with:  
-(Below ranked in descending order of Sales)  
-* Values to find:		Replace with:  
-* Colombia 		1.Colombia  
-* Chile 			2.Chile  
-* Mexico 		3.Mexico  
-* Brazil 		4.Brazil  
+Customer dataset, hilight country column and perform value replacements:  
+(numerically ranked in descending order of Sales contribution)	  
+* 1.Colombia replace Colombia  
+* 2.Chile replace Chile  
+* 3.Mexico replace Mexico  
+* 4.Brazil replace Brazil   
 
 ### Data Cleaning:     
 * Customer and Purchase datasets: verify every data column for any Empty or Error cells under "Column profiling based on entire data set".  
