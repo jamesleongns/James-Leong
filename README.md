@@ -27,7 +27,7 @@ ProductCat dataset separately created to categorize product_name within a broade
 * Electronics  
 * Apparel Fashion  
 
-Customer dataset, added AgeSegment column:  
+Customer dataset, added AgeSegment column to categorize age to:  
 (numerically ranked in descending order of Sales contribution)
 * 1.Mid-Aged Prof_45-54yrs  
 * 2.Seniors_55-65yrs  
@@ -74,15 +74,15 @@ Males overall Sales is slightly higher than females:
 * Females (49.6% or $26M)   
 
 for each product category:  
-* Home Living (+$0.71M delta)  
+* Home Living (+$0.30M delta)  
 * Electronics (+$0.12M delta)  
 * Apparel Fashion (+$0.05M delta)  
 
-for each country except Mexico   
-* Colombia (+$0.5M delta)  
-* Chile (+$0.1M delta)  
-* Brazil (+$0.5M delta)  
+for each country except Mexico
+* Brazil (+$0.53M delta) 
+* Colombia (+$0.48M delta)  
+* Chile (+$0.07M delta)  
 
 for age segment:  
-* 1.Mid-Aged Prof_45-54yrs (+$0.8M delta)  
-* 2.Seniors_55-65yrs (+$0.7M delta)  
+* 1.Mid-Aged Prof_45-54yrs (+$0.87M delta)  
+* 2.Seniors_55-65yrs (+$0.64M delta)  
