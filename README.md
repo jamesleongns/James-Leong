@@ -68,17 +68,17 @@ Across every Country, Age Segment and gender, highest Sales in descending order 
 * Electronics (29% or $15.2M)  
 * Apparel Fashion (5% or $2.6M)  
 
-**********
+
 Males overall Sales is slightly higher than females:  
 * Males (50.5% or $26.5M)   
 * Females (49.6% or $26M)   
 
-for each product category:  
+for every product category:  
 * Home Living (+$0.30M delta)  
 * Electronics (+$0.12M delta)  
 * Apparel Fashion (+$0.05M delta)  
 
-for each country except Mexico
+for every country except Mexico
 * Brazil (+$0.53M delta) 
 * Colombia (+$0.48M delta)  
 * Chile (+$0.07M delta)  
