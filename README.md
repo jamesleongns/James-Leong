@@ -40,7 +40,10 @@ Customer dataset, hilight country column and perform value replacements:
 * 1.Colombia replace Colombia  
 * 2.Chile replace Chile  
 * 3.Mexico replace Mexico  
-* 4.Brazil replace Brazil   
+* 4.Brazil replace Brazil  
+
+Purchase dataset, added MF_SalesDelta column:  
+* MF_SalesDelta column reference the other Customer dataset via DAX formula to calculate the nett value of total Sales by Males(+ve values) over Females(-ve values).  Nett MF_SalesDelta positive value denotes the amount that males exceeded female sales while a nett negative values denotes the amount female sales that exceeded male sales.  
 
 ### Data Cleaning:     
 * Customer and Purchase datasets: verify every data column for any Empty or Error cells under "Column profiling based on entire data set".  
