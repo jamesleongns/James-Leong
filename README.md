@@ -59,6 +59,8 @@ Highest Sales by Age Segment and product category in descending order:
 * 3.Adult Prof_35-44yrs  
 * 4.Young Prof_25-34yrs  
 * 5.College Stu_18-24yrs  
+Generally, the older the Age Segment, the higher their disposable income.  
+Seniors_55-65yrs with the highest income but recorded lower sales need to be better marketed.      
 
 Country by highest Sales in descending order:  
 * 1.Colombia (28% or $14.8M)  
@@ -70,7 +72,6 @@ Across every Country, Age Segment and gender, highest Sales in descending order 
 * Home Living (66% or $34.7M)  
 * Electronics (29% or $15.2M)  
 * Apparel Fashion (5% or $2.6M)  
-
 
 Males overall Sales is slightly higher than females:  
 * Males (50.5% or $26.5M)   
@@ -87,5 +88,6 @@ for every country except Mexico
 * Chile (+$0.07M delta)  
 
 for age segment:  
-* 1.Mid-Aged Prof_45-54yrs (+$0.87M delta)  
-* 2.Seniors_55-65yrs (+$0.64M delta)  
+* 1.Mid-Aged Prof_45-54yrs (+$0.87M delta)
+* 2.Seniors_55-65yrs (+$0.64M delta)
+
