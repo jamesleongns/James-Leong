@@ -92,8 +92,8 @@ for age segment:
 
 ### Insights and Recommendations
 * Generally, the older the Age Segment, the higher their disposable income. Hence Seniors_55-65yrs with the highest income but recorded lower sales need to be better marketed.  
-* Majority of spenders for Home Living are males and are comes from 1.Mid-Aged Prof_45-54yrs and 2.Seniors_55-65yrs.  Hence females and 3.Adult Prof_35-44yrs needs to be better marketed.  
-* Home Living Sales is double of Electronics which in turn is almost 6 times the sales of Apparel Fashion.  Apparel Fashion has market potential if better marketed particularly to females from 4.Young Prof_25-34yrs age segment.
+* Majority of spenders for Home Living are males and comes from 1.Mid-Aged Prof_45-54yrs and 2.Seniors_55-65yrs.  Hence females who are 3.Adult Prof_35-44yrs needs to be better marketed.  
+* Home Living Sales is double of Electronics which in turn is almost 6 times the sales of Apparel Fashion.  Apparel Fashion has market potential if better marketed especially to females from 4.Young Prof_25-34yrs age segment.
 * Electronics(e.g. Tablets, Wireless speakers, Camera, Headphones) could be better marketed to younger female age segment 3.Adult Prof_35-44yrs, 4.Young Prof_25-34yrs and 5.College Stu_18-24yrs.
 * Home Living sales in Mexico are predominantly made by females from younger age segment 3.Adult Prof_35-44yrs and 5.College Stu_18-24yrs whereas other countries sales are predominantly males from older age segment 1.Mid-Aged Prof_45-54yrs and 2.Seniors_55-65yrs.  Hence marketing may wish to learn from Mexico marketing team how to better target younger female age segment for more sales in other countries.  
 
