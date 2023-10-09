@@ -1,4 +1,4 @@
-# SCTP-Data Analyst Capstone Project
+# Data Analyst Capstone Project
 
 ![](https://i.imgur.com/0IXxrQ5.png)
 
