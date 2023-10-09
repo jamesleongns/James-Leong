@@ -35,6 +35,7 @@ Customer dataset, added AgeSegment column to categorize age to:
 * 4.Young Prof_25-34yrs  
 * 5.College Stu_18-24yrs
 
+
 Customer dataset, hilight country column and perform value replacements:  
 (numerically ranked in descending order of Sales contribution)	  
 * 1.Colombia replace Colombia  
@@ -59,9 +60,7 @@ Highest Sales by Age Segment and product category in descending order:
 * 3.Adult Prof_35-44yrs  
 * 4.Young Prof_25-34yrs  
 * 5.College Stu_18-24yrs  
-Generally, the older the Age Segment, the higher their disposable income.  
-Seniors_55-65yrs with the highest income but recorded lower sales need to be better marketed.      
-
+  
 Country by highest Sales in descending order:  
 * 1.Colombia (28% or $14.8M)  
 * 2.Chile (25% or $13.3M)  
@@ -91,3 +90,18 @@ for age segment:
 * 1.Mid-Aged Prof_45-54yrs (+$0.87M delta)
 * 2.Seniors_55-65yrs (+$0.64M delta)
 
+### Insights and Recommendations
+* Generally, the older the Age Segment, the higher their disposable income. Hence Seniors_55-65yrs with the highest income but recorded lower sales need to be better marketed.  
+* Majority of spenders for Home Living are males and are comes from 1.Mid-Aged Prof_45-54yrs and 2.Seniors_55-65yrs.  Hence females and 3.Adult Prof_35-44yrs needs to be better marketed.  
+* Home Living Sales is double of Electronics which in turn is almost 6 times the sales of Apparel Fashion.  Apparel Fashion has market potential if better marketed particularly to females from 4.Young Prof_25-34yrs age segment.
+* Electronics(e.g. Tablets, Wireless speakers, Camera, Headphones) could be better marketed to younger female age segment 3.Adult Prof_35-44yrs, 4.Young Prof_25-34yrs and 5.College Stu_18-24yrs.
+* Home Living sales in Mexico are predominantly made by females from younger age segment 3.Adult Prof_35-44yrs and 5.College Stu_18-24yrs whereas other countries sales are predominantly males from older age segment 1.Mid-Aged Prof_45-54yrs and 2.Seniors_55-65yrs.  Hence marketing may wish to learn from Mexico marketing team how to better target younger female age segment for more sales in other countries.  
+
+Sales to be guided by the following Key Sales influencers in descending order of impact:  
+* Average Ship Cost/price =< 0.62%  
+* More product category offered that is Home Living  
+* Average discount <12%  
+* Average Price/Qty >$594.58  
+  
+### Connect with Me!
+Like my work? Send me a DM on [Linkedin!](https://www.linkedin.com/in/jamesleongns/)
